@@ -1,0 +1,12 @@
+@import url(https://fonts.google.com/specimen/Roboto+Slab);
+
+:root{
+  --font-family: "manrope",sans-serif;
+  --gradient-text: linear-gradient(89.97deg,purple,orange);
+  --gradient-bar: linear-gradient(107.22deg,purple,orange);
+  --color-bg: #040c18  ; 
+  --color-footer:#031b34;
+  --color-blog:#042c54;
+  --color-text:#81afdd;
+  --color-subtext:#ff8a71;
+}
